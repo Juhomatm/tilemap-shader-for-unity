@@ -1,0 +1,6 @@
+/library/
+/Packages/
+/.vs/
+/*.csproj
+/*.sln
+*.meta
